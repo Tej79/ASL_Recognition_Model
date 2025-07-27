@@ -42,6 +42,8 @@ The best way to run these files and any files with heavy models is using Google 
 
 That said, you can clone and open the .ipynb files from this repo directly from colab and run the files there once connected to a virtual runtime. You'd also need to download the data folder into your runtime so the notebook can access them. 
 
+If you only wish to view the process and the results achieved, you can simply preview the .ipynb file in GitHub itself.
+
 
 ## Ackowledgments
 The dataset used in this project is available from the website [Kaggle](http://www.kaggle.com).
